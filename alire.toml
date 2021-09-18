@@ -7,7 +7,7 @@ maintainers = ["Holger Rodriguez <github@roseng.ch>"]
 maintainers-logins = ["hgrodriguez"]
 
 licenses = "BSD-3-Clause"
-tags = ["embedded", "nostd", "zfp", "rp2040", "Ada"]
+tags = ["embedded", "nostd", "zfp", "rp2040"]
 website = "https://github.com/hgrodriguez/rp2040_zfp"
 
 [[depends-on]]  # This line was added by `alr with`
